@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="categoryArray">
+        <item>@string/eatingOut</item>
+        <item>@string/car</item>
+        <item>@string/grocery</item>
+        <item>@string/home</item>
+        <item>@string/utilities</item>
+        <item>@string/miscellaneous</item>
+        <item>@string/travel</item>
+    </string-array>
+</resources>

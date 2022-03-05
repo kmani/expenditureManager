@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eatingOut">Eating Out</string>
+    <string name="grocery">Grocery</string>
+    <string name="travel">Travel</string>
+    <string name="car">Car</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="home">Home</string>
+    <string name="utilities">Utilities</string>
+</resources>
